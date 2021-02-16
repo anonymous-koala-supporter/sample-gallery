@@ -1,0 +1,48 @@
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+.button-cub200, .button-cars196, .button-sop {
+    color: white;
+    border-radius: 4px;
+    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+}
+
+.button-cub200 {
+    background: rgb(28, 184, 65);
+}
+
+.button-cars196 {
+    background: rgb(223, 117, 20);
+}
+
+.button-sop {
+    background: rgb(66, 184, 221);
+}
+
+.center {
+    justify-content: center;
+}
+
+.topbar {
+    padding: 1em 0 1em 0;
+}
+
+.topbar p {
+    margin: 0 1em 0 0;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+img {
+    width: 764px;
+    height: 207px;
+    margin-bottom: 2em;
+}
+
+.fixed {
+    overflow: hidden;
+    position: sticky;
+    top: 0;
+}
